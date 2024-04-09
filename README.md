@@ -9,8 +9,7 @@ Version 1.0
 Author: samamsa7
 
 ## DuckyScript Code
-<code><pre>
-DELAY 75
+<code><pre>DELAY 75
 COMMAND SPACE
 DELAY 50
 STRING TERMINAL
