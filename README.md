@@ -6,7 +6,7 @@ This is for security research purposes ONLY. Only use on machines where you have
 
 ## About
 Version 1.0
-Author: samamsa7
+<br>Author: samamsa7
 
 ## DuckyScript Code
 <code><pre>
