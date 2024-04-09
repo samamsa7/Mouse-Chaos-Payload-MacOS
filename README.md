@@ -8,7 +8,8 @@ This is for security research purposes ONLY. Only use on machines where you have
 Version 1.0
 Author: samamsa7
 
-## DuckyScript Code<code><pre>
+## DuckyScript Code
+<code><pre>
 DELAY 75
 COMMAND SPACE
 DELAY 50
