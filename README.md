@@ -1,5 +1,5 @@
 # Mouse-Chaos-Payload-MacOS
-DuckyScript that causes the virtual mouse of a computer to go hay-wire on MacOS.
+DuckyScript that causes the mouse cursor of a computer to go hay-wire on MacOS. Because it's mostly harmless and funny.
 
 ## DISCLAIMER:
 This is for security research purposes ONLY. Only use on machines where you have permission or your own.
